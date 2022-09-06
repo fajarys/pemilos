@@ -1,1 +1,2 @@
+php -S localhost:8080
 npx localtunnel --port 8080
