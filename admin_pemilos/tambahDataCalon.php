@@ -124,10 +124,10 @@ if (!isset($_SESSION['username']) && !isset($_SESSION['password'])) {
 
                 </div>
 
-                <div class="card p-4 m-3 text-center" href="hasil_diagram.php">
+                <!-- <div class="card p-4 m-3 text-center" href="hasil_diagram.php">
                     <p class="text-start">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga in unde nostrum voluptatum quam soluta assumenda voluptates! Distinctio</p>
                     <button type="button" class="btn btn-outline-dark btn-sm">Follow Us</button>
-                </div>
+                </div> -->
 
             </nav>
 
